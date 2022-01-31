@@ -1,0 +1,7 @@
+{
+    "project_name": "project_name",
+    "description": "A short description of the project.",
+    "model_name": "Name of the failure mode to be modeled.",
+    "author_name": "Your name (or your organization/company/team)",
+    "python_interpreter": ["python3", "python"]
+}
